@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(#20B2AA,#87A96B);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#bff-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #9053c2;
+    margin-bottom: 10px;
+}
+
+#bday-age {
+    background: #9053c2;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    margin: 0;
+    background:#9053c2;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+#gift-img-cheers {
+    height: 200px;
+}
+
+.gift-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://www.psdgraphics.com/wp-content/uploads/2016/06/gift-box-cover.jpg");
+    background-size: cover;
+}
+
+#gift-img-happy:hover {
+    background-image: url("https://media2.giphy.com/media/jTSOClK7HBoMaVn5Hi/200w.webp?cid=ecf05e4765jkfdm6dfkk3x0qdh4h9lhytxfwuctpba1sige4&rid=200w.webp&ct=g");
+}
+
+#gift-img-party:hover {
+    background-image: url("https://media1.giphy.com/media/pWO49XP9L7TxbgQVib/200.webp?cid=ecf05e47swlvpwv1oo8aewrih0q5e1h4wkdgsp2wofmb44di&rid=200.webp&ct=g");
+}
+
+#gift-img-genius:hover {
+    background-image: url("https://media0.giphy.com/media/K5YC2HXUjUPjDM3kjj/200w.webp?cid=ecf05e47xyzpzs56t69j4z6ei1mkx2s4b8dpwxkggx6ogy3x&rid=200w.webp&ct=g");
+}
+
+#gift-img-badass:hover {
+    background-image: url("https://media4.giphy.com/media/A5zUXA71c6KNW/200w.webp?cid=ecf05e47gojoj59soinnow2woe4jb20esz4bhdk74ad3ery4&rid=200w.webp&ct=g");
+}
+
+#gift-img-cheers:hover {
+    background-image: url("https://media3.giphy.com/media/mFSEfZlTrgX3CD150c/200.webp?cid=ecf05e4743hxi4guxd2w1pfxhywubq56xr0ydlxabw16hjwf&rid=200.webp&ct=g");
+}
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: white;
+}
