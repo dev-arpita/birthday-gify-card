@@ -1,7 +1,8 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#20B2AA,#87A96B);
+    background: rgb(166, 70, 156);
+        background: linear-gradient(0deg, rgba(166, 70, 156, 1) 0%, rgba(235, 178, 242, 1) 100%);
     color: #ffffff;
 }
 
